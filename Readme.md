@@ -1,6 +1,6 @@
 <!-- seccion de redes sociales -->
 <p align="center">
-      <img src="./portada.jpeg" />
+      <img src="./portada.jpg" />
 
 
  # Android's Projects with Kotlin 
