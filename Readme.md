@@ -3,7 +3,9 @@
       <img src="./portada.jpeg" />
 
 
- # Android's Projects with Kotlin (Google Developer Training course):
+ # Android's Projects with Kotlin 
+ ## Google Developer Training course
+ ### Click image to go to exercise
 
   <!-- Sección de Proyectos -->
   <p>
