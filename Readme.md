@@ -8,8 +8,8 @@
   <!-- Sección de Proyectos -->
   <p>
     <!-- Proyecto 1 -->
-    <a href="https://github.com/metantonio/training-kotlin-app-1" width="600px">
-      <img src="https://github.com/metantonio/training-kotlin-app-1/blob/main/portada.jpg" width="600px" height="1300" alt="project 1"/>
+    <a href="https://github.com/metantonio/training-kotlin-app-1" width="300px">
+      <img src="https://github.com/metantonio/training-kotlin-app-1/blob/main/portada.jpg" width="300px" height="650" alt="project 1"/>
     </a>
   </p>
   <!-- Fin de la sección de proyectos -->
