@@ -24,8 +24,8 @@
       <td>
   	<p>
     	   <!-- Proyecto 2 -->
-    		<a href="" width="300px">
-      			<img src="" width="300px" height="650" alt="project 2"/>
+    		<a href="#" width="300px">
+      			<img src="#" width="300px" height="650" alt="project 2"/>
     		</a>
   	</p>
       </td>
@@ -33,8 +33,8 @@
       <td>
   	<p>
     	   <!-- Proyecto 3 -->
-    		<a href="" width="300px">
-      			<img src="" width="300px" height="650" alt="project 3"/>
+    		<a href="#" width="300px">
+      			<img src="#" width="300px" height="650" alt="project 3"/>
     		</a>
   	</p>
       </td>
