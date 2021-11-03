@@ -9,7 +9,9 @@
 
   <!-- Sección de Proyectos -->
 <table width="100%">
+   <!-- Inicio Fila -->
    <tr>	
+      <!-- Columna 1 -->	
       <td>
   	<p>
     	   <!-- Proyecto 1 -->
@@ -18,7 +20,26 @@
     		</a>
   	</p>
       </td>
+      <!-- Columna 2 -->	
+      <td>
+  	<p>
+    	   <!-- Proyecto 2 -->
+    		<a href="" width="300px">
+      			<img src="" width="300px" height="650" alt="project 1"/>
+    		</a>
+  	</p>
+      </td>
+      <!-- Columna 3 -->	
+      <td>
+  	<p>
+    	   <!-- Proyecto 3 -->
+    		<a href="" width="300px">
+      			<img src="" width="300px" height="650" alt="project 1"/>
+    		</a>
+  	</p>
+      </td>
    </tr>
+   <!-- Final Fila -->
 </table>
   <!-- Fin de la sección de proyectos -->
 
