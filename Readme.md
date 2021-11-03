@@ -5,7 +5,7 @@
 
  # Android's Projects with Kotlin 
  ## Google Developer Training course
- ### Click image to go to exercise
+ ### Click images to go to exercises
 
   <!-- Sección de Proyectos -->
 <table width="100%">
@@ -25,7 +25,7 @@
   	<p>
     	   <!-- Proyecto 2 -->
     		<a href="" width="300px">
-      			<img src="" width="300px" height="650" alt="project 1"/>
+      			<img src="" width="300px" height="650" alt="project 2"/>
     		</a>
   	</p>
       </td>
@@ -34,7 +34,7 @@
   	<p>
     	   <!-- Proyecto 3 -->
     		<a href="" width="300px">
-      			<img src="" width="300px" height="650" alt="project 1"/>
+      			<img src="" width="300px" height="650" alt="project 3"/>
     		</a>
   	</p>
       </td>
