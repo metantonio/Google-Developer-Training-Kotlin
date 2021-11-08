@@ -24,8 +24,8 @@
       <td>
   	<p>
     	   <!-- Proyecto 2 -->
-    		<a href="#" width="300px">
-      			<img src="#" width="300px" height="650" alt="project 2"/>
+    		<a href="https://github.com/metantonio/training-kotlin-app-2" width="300px">
+      			<img src="https://github.com/metantonio/training-kotlin-app-2/blob/main/portada.gif" width="300px" height="650" alt="project 2"/>
     		</a>
   	</p>
       </td>
